@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 💬  Feel free to reach out to me for consulting or just some interesting discussion.<br/>
 ✉️  You can shoot me an email at jchao11@ucsc.edu! I'll try to respond as soon as I can.<br/>
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+
+
+![giphy](https://user-images.githubusercontent.com/87839757/210293135-8fb35aa7-3e72-40cd-84c9-8c3c411d2c7b.gif)
