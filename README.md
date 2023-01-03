@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jchaodubs/jchaodubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there! I'm Jeffrey
+### Hey there! I'm Jeffrey
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 🎓  I'm currently studying Computer Science at the University of California, Santa Cruz.
 ✍️  In my free time, I pursue Graphic Design and sports as well as hobbies/side hustles.
