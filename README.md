@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hey there! I'm Jeffrey
 💡  I like to explore new technologies and develop software solutions and quick hacks.<br/>
 🎓  I'm currently studying Computer Science at the University of California, Santa Cruz.<br/>
-✍️  In my free time, I pursue Graphic Design and sports as well as hobbies/side hustles.<br/>
+✍️  In my free time, I pursue Graphic Design and sports as well as side hustles.<br/>
 💬  Feel free to reach out to me for consulting or just some interesting discussion.<br/>
 ✉️  You can shoot me an email at jchao11@ucsc.edu! I'll try to respond as soon as I can.<br/>
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
