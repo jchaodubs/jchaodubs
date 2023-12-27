@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 ![giphy](https://user-images.githubusercontent.com/87839757/210293135-8fb35aa7-3e72-40cd-84c9-8c3c411d2c7b.gif)
-![giphy](https://github.com/jchaodubs/jchaodubs/assets/87839757/40925782-1b30-4027-9949-e8733fd3ee72)
+![image](https://github.com/jchaodubs/jchaodubs/assets/87839757/e43664ba-6574-430d-8c39-b9172c0768cf)
