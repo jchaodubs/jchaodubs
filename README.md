@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 📄  Please have a look at my [Résumé](https://drive.google.com/file/d/1AG5laF6WdzR-6KfxDZAFqpYw6prNF_wF/view?usp=sharing) or my [website](https://jeffrey-chao.com/) for more details about me. I'm open to feedback and suggestions!
 
 
-![giphy](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240612T234336Z&X-Amz-Expires=300&X-Amz-Signature=a7c5cad07ec85ad123914c2326d8b60053eabfcf83d08603a321e3adca2ece1a&X-Amz-SignedHeaders=host&actor_id=87839757&key_id=0&repo_id=588181932)
+
+
+![240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4](https://github.com/jchaodubs/jchaodubs/assets/87839757/d720e7a8-18bc-42a5-96cf-9fe275744d17)
+
+![216644507-4f06ea29-bf55-4356-aac0-d42751461a9d](https://github.com/jchaodubs/jchaodubs/assets/87839757/7e4bb7fa-618e-4bfd-b357-a746f92fa63f)
+
