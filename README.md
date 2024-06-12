@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 
 
 
-![240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4](https://github.com/jchaodubs/jchaodubs/assets/87839757/d720e7a8-18bc-42a5-96cf-9fe275744d17)
-
 ![216644507-4f06ea29-bf55-4356-aac0-d42751461a9d](https://github.com/jchaodubs/jchaodubs/assets/87839757/7e4bb7fa-618e-4bfd-b357-a746f92fa63f)
 
