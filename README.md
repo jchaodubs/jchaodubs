@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 📄  Please have a look at my [Résumé](https://drive.google.com/file/d/1AG5laF6WdzR-6KfxDZAFqpYw6prNF_wF/view?usp=sharing) or my [website](https://jeffrey-chao.com/) for more details about me. I'm open to feedback and suggestions!
 
 
-![giphy](https://user-images.githubusercontent.com/87839757/210293135-8fb35aa7-3e72-40cd-84c9-8c3c411d2c7b.gif)
+![giphy][(https://user-images.githubusercontent.com/87839757/210293135-8fb35aa7-3e72-40cd-84c9-8c3c411d2c7b.gif)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4)
